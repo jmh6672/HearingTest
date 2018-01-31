@@ -2,3 +2,5 @@
 
 
 ![시작화면](.img/safuad1.png)
+
+![시작화면](.img/safuad2.png)
